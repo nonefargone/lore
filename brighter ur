@@ -1,14 +1,14 @@
-item 
+item cleric th ur 
 
-next
+next    cleric  currently size 
     item 
 
-    as 
+    as    cleric   ai 
       next 
           cpu 
              then 
 
-    next
+    next    cleric 
         cpu 
            ui 
     next
